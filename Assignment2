@@ -34,3 +34,25 @@ print(letterX)
 letter1
 print(letter1)
 Z
+
+
+DICTIONARY
+about_me = {'name': 'Lorilyn', 'age': 21.0, 'year': 4, 'food': ['sushi', 'pizza', 'salad', 'strawberrycake']}
+
+print(about_me)
+{'name': 'Lorilyn', 'age': 21.0, 'year': 4, 'food': ['sushi', 'pizza', 'salad', 'strawberrycake']}
+
+mixnums = np.array([1,2,3,4.0,5.0,6.0])
+
+Array
+print(mixnums)
+[1. 2. 3. 4. 5. 6.] #there is decimal point 
+mixtypes=numpy.array([1,2,3.0,4.0,'5','6'])
+print(mixtypes)
+['1' '2' '3.0' '4.0' '5' '6'] #follows with or without decimal points
+
+#3.
+print(np.linspace(1,5,16))
+[1.         1.26666667 1.53333333 1.8        2.06666667 2.33333333
+ 2.6        2.86666667 3.13333333 3.4        3.66666667 3.93333333
+ 4.2        4.46666667 4.73333333 5.        ]
