@@ -12,3 +12,25 @@ I
 L
 Y
 N
+
+Operation
+
+
+Variable exercise: Python is able to define both X and the original letters as the same letter.
+print(letter1)
+L
+print(letterX)
+L
+letterX="K"
+print(letterX)
+K
+letterX="letter1"
+print(letterX)
+letter1
+Print(letter1)
+L
+letter1= "Z"
+print(letterX)
+letter1
+print(letter1)
+Z
