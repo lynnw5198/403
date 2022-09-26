@@ -8,7 +8,7 @@ The values are the same
 1
 
 3) print(2**2)
-4 
+4  
 ** is exponents
 
 5) print(2//1).  // is integer division, / is float division
